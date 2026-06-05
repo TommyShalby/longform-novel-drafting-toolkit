@@ -1,0 +1,33 @@
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Private source materials
+*.pdf
+*.epub
+*.txt
+
+# Generated outputs
+data/
+memory/
+output/
+chapters/
+summaries/
+plans/
+*.tmp
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
